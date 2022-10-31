@@ -1,0 +1,10 @@
+thanks
+status
+gate
+campus
+live
+event
+job
+notes
+leetcode
+weekly
